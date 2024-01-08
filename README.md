@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WhiteR9se, an undergrad at IIITD in Computer Science and Engineering. Graduating 2027.
 - 👀 I’m interested in AI and Cybersecurity in general.
 - 🌱 I’m currently learning c++.
-- 📫 How to reach me ... Mail me at karan23270@iiitd.ac.in
+- 📫 How to reach me ... Mail me at contact.karank.here@gmail.com
 
 
 <!---
