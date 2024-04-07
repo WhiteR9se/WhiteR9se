@@ -6,7 +6,7 @@ WhiteR9se/WhiteR9se is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<H1><b><i><u> HI, I am WHiteR9se  </u></i></b></H1>
+<H1><b><i><u> Hello, I am WhiteR9se  </u></i></b></H1>
 
 ![Pfp](https://avatars.githubusercontent.com/u/98538984?v=4)
 
