@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 # 💫 About Me:
 - 👋 Hi, I’m @WhiteR9se, an undergrad at IIITD in Computer Science and Engineering. Graduating 2027.
 - 👀 I’m interested in AI and Cybersecurity in general.
-- 🌱 I’m currently learning c++.
+- 🌱 I’m currently learning java and small-scale projects.
 - 📫 How to reach me ... Mail me at karan23270@iiitd.ac.in
 
 
