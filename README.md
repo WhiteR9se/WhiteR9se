@@ -14,16 +14,14 @@ You can click the Preview link to take a look at your changes.
 
 # 💫 About Me:
 - 👋 Hi, I’m @WhiteR9se, an undergrad at IIITD in Computer Science and Engineering. Graduating 2027.
-- 👀 I’m interested in AI and Cybersecurity in general.
-- 🌱 I’m currently learning java and small-scale projects.
+- 👀 I’m interested in Networking, and Cybersecurity in general.
+- 🌱 I’m currently learning networking protocols and socket implementation in c/c++.
 - 📫 How to reach me ... Mail me at karan23270@iiitd.ac.in
 
 
 ## 🌐 Socials:  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yourstruly.karan)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=WhiteR9se&theme=darcula&hide_border=false)<br/>
