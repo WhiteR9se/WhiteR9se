@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 ***
 
 # 💫 About Me:
+- ASTRACORP Dev
 - 👋 Hi, I’m @WhiteR9se, an undergrad at IIITD in Computer Science and Engineering. Graduating 2027.
 - 👀 I’m interested in Networking, and Cybersecurity in general.
 - 🌱 I’m currently learning networking protocols and socket implementation in c/c++.
